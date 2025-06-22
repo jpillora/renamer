@@ -23,7 +23,7 @@ Find [the latest pre-compiled binaries here](https://github.com/jpillora/renamer
 **Source**
 
 ```sh
-$ go get -v github.com/jpillora/renamer
+$ go install -v github.com/jpillora/renamer@latest
 ```
 
 ### Usage
